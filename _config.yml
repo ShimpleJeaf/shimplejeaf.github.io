@@ -27,8 +27,9 @@ url: "https://shimplejeaf.github.io" # the base hostname & protocol for your sit
 github_username: ShimpleJeaf
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+theme: minima
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
 
